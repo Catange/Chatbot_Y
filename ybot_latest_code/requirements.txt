@@ -1,0 +1,6 @@
+flask
+redis
+line-bot-sdk
+requests
+bs4
+datetime
